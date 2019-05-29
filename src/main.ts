@@ -1,4 +1,3 @@
-require('module-alias/register');
 import * as vm from "./modules/vm";
 import { Room } from "./classes/room";
 import { load, save } from "./modules/load";
